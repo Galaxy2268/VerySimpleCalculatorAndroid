@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PhotoRem" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/header</item>
+    </style>
+
+    <style name="Theme.PhotoRem" parent="Base.Theme.PhotoRem" />
+</resources>
